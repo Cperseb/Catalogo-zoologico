@@ -33,12 +33,4 @@ Este es un proyecto web simple que muestra un catálogo de 10 animales de un zoo
 - Un botón por cada animal para mostrar/ocultar su imagen y descripción.
 - Cambio de texto en el botón entre "Ver foto" y "Ocultar".
 
-## ✨ Capturas de pantalla
-Puedes agregar capturas de pantalla del proyecto aquí para ilustrar su apariencia.
-
-## 👨‍💻 Autor
-Desarrollado por [Tu Nombre].
-
----
-© 2025 - Proyecto Open Source. 🌟
 
